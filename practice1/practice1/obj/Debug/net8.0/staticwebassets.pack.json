@@ -53,6 +53,14 @@
       "PackagePath": "staticwebassets\\image\\5.png"
     },
     {
+      "Id": "D:\\datNet\\practice1\\practice1\\wwwroot\\image\\6.png",
+      "PackagePath": "staticwebassets\\image\\6.png"
+    },
+    {
+      "Id": "D:\\datNet\\practice1\\practice1\\wwwroot\\image\\7.png",
+      "PackagePath": "staticwebassets\\image\\7.png"
+    },
+    {
       "Id": "D:\\datNet\\practice1\\practice1\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },

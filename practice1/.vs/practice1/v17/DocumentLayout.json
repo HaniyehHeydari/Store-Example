@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "D:\\datNet\\practice1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1EF97A03-5E76-4709-9196-8B54C77226A6}|practice1\\practice1.csproj|d:\\datnet\\practice1\\practice1\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{1EF97A03-5E76-4709-9196-8B54C77226A6}|practice1\\practice1.csproj|solutionrelative:practice1\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1EF97A03-5E76-4709-9196-8B54C77226A6}|practice1\\practice1.csproj|d:\\datnet\\practice1\\practice1\\layout\\footer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1EF97A03-5E76-4709-9196-8B54C77226A6}|practice1\\practice1.csproj|solutionrelative:practice1\\layout\\footer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1EF97A03-5E76-4709-9196-8B54C77226A6}|practice1\\practice1.csproj|d:\\datnet\\practice1\\practice1\\layout\\header.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EF97A03-5E76-4709-9196-8B54C77226A6}|practice1\\practice1.csproj|solutionrelative:practice1\\layout\\header.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF97A03-5E76-4709-9196-8B54C77226A6}|practice1\\practice1.csproj|d:\\datnet\\practice1\\practice1\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1EF97A03-5E76-4709-9196-8B54C77226A6}|practice1\\practice1.csproj|solutionrelative:practice1\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF97A03-5E76-4709-9196-8B54C77226A6}|practice1\\practice1.csproj|d:\\datnet\\practice1\\practice1\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EF97A03-5E76-4709-9196-8B54C77226A6}|practice1\\practice1.csproj|solutionrelative:practice1\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1EF97A03-5E76-4709-9196-8B54C77226A6}|practice1\\practice1.csproj|d:\\datnet\\practice1\\practice1\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1EF97A03-5E76-4709-9196-8B54C77226A6}|practice1\\practice1.csproj|solutionrelative:practice1\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF97A03-5E76-4709-9196-8B54C77226A6}|practice1\\practice1.csproj|d:\\datnet\\practice1\\practice1\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EF97A03-5E76-4709-9196-8B54C77226A6}|practice1\\practice1.csproj|solutionrelative:practice1\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF97A03-5E76-4709-9196-8B54C77226A6}|practice1\\practice1.csproj|d:\\datnet\\practice1\\practice1\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EF97A03-5E76-4709-9196-8B54C77226A6}|practice1\\practice1.csproj|solutionrelative:practice1\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +38,92 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\datNet\\practice1\\practice1\\_Imports.razor",
+              "RelativeDocumentMoniker": "practice1\\_Imports.razor",
+              "ToolTip": "D:\\datNet\\practice1\\practice1\\_Imports.razor",
+              "RelativeToolTip": "practice1\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T22:52:08.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "D:\\datNet\\practice1\\practice1\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "practice1\\Pages\\Weather.razor",
+              "ToolTip": "D:\\datNet\\practice1\\practice1\\Pages\\Weather.razor",
+              "RelativeToolTip": "practice1\\Pages\\Weather.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T22:51:55.718Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Header.razor",
+              "DocumentMoniker": "D:\\datNet\\practice1\\practice1\\Layout\\Header.razor",
+              "RelativeDocumentMoniker": "practice1\\Layout\\Header.razor",
+              "ToolTip": "D:\\datNet\\practice1\\practice1\\Layout\\Header.razor",
+              "RelativeToolTip": "practice1\\Layout\\Header.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T19:54:40.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.css",
+              "DocumentMoniker": "D:\\datNet\\practice1\\practice1\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "practice1\\wwwroot\\css\\app.css",
+              "ToolTip": "D:\\datNet\\practice1\\practice1\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "practice1\\wwwroot\\css\\app.css",
+              "ViewState": "AQIAAPUAAAAAAAAAAAAAAAYBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-29T14:02:50.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\datNet\\practice1\\practice1\\App.razor",
+              "RelativeDocumentMoniker": "practice1\\App.razor",
+              "ToolTip": "D:\\datNet\\practice1\\practice1\\App.razor",
+              "RelativeToolTip": "practice1\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T22:52:10.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Footer.razor",
               "DocumentMoniker": "D:\\datNet\\practice1\\practice1\\Layout\\Footer.razor",
               "RelativeDocumentMoniker": "practice1\\Layout\\Footer.razor",
               "ToolTip": "D:\\datNet\\practice1\\practice1\\Layout\\Footer.razor",
               "RelativeToolTip": "practice1\\Layout\\Footer.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAQAAAA",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAEkAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-02-29T14:04:48.139Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "app.css",
-              "DocumentMoniker": "D:\\datNet\\practice1\\practice1\\wwwroot\\css\\app.css",
-              "RelativeDocumentMoniker": "practice1\\wwwroot\\css\\app.css",
-              "ToolTip": "D:\\datNet\\practice1\\practice1\\wwwroot\\css\\app.css",
-              "RelativeToolTip": "practice1\\wwwroot\\css\\app.css",
-              "ViewState": "AQIAAFwAAAAAAAAAAAAAAHQAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-02-29T14:02:50.692Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "D:\\datNet\\practice1\\practice1\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "practice1\\Layout\\MainLayout.razor",
               "ToolTip": "D:\\datNet\\practice1\\practice1\\Layout\\MainLayout.razor",
               "RelativeToolTip": "practice1\\Layout\\MainLayout.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-29T13:51:21.659Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-29T13:51:21.659Z"
             }
           ]
         }

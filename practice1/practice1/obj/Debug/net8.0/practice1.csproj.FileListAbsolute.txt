@@ -1029,3 +1029,4 @@ D:\datNet\practice1\practice1\obj\Debug\net8.0\practice1.dll
 D:\datNet\practice1\practice1\obj\Debug\net8.0\refint\practice1.dll
 D:\datNet\practice1\practice1\obj\Debug\net8.0\practice1.pdb
 D:\datNet\practice1\practice1\obj\Debug\net8.0\ref\practice1.dll
+D:\datNet\practice1\practice1\obj\Debug\net8.0\practice1.sourcelink.json

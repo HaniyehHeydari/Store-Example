@@ -107,9 +107,9 @@ footer {
     height: 437px;
     background-color: #1f1f1f;
     direction: rtl;
-    position: fixed;
-    bottom: 0;
     color: white;
+    position:fixed;
+    bottom:0;
     padding-top: 30px;
 }
 .row-top {
@@ -139,10 +139,13 @@ footer {
         font-weight: 500;
         font-size: 18px;
     }
-
-.column-one-down ul li {
-   color: yellow;
-}
+        .column-one-down a:hover {
+            color: #f2bc31;
+            cursor:pointer;
+        }
+        .column-one-down ul li {
+            color: yellow;
+        }
 
 .column-one-down li {
   margin-top: 12px;
@@ -172,6 +175,9 @@ footer {
 .column-three {
     width: 20%;
 }
+.column-three:hover{
+    cursor:pointer;
+}
 .column-three-top {
     display: flex;
     column-gap: 20px;
@@ -196,3 +202,61 @@ footer {
     height:18px;
     margin-left:15px;
 }
+.icon svg:hover{
+    cursor:pointer;
+}
+.navar {
+    width: 100%;
+    height: 114px;
+    background-color: #007bff;
+    padding: 25px;
+    display: flex;
+    column-gap: 30px;
+}
+ .img :hover{
+    cursor:pointer;
+}
+input{
+    width:400px;
+    height:40px;
+    border:none;
+    padding:8px;
+    margin-top:17px;
+    margin-right:640px;
+    border-radius:15px;
+    background-color:rgba(255,255,255,0.3);
+    background-image:url(/image/7.png);
+    background-repeat:no-repeat;
+    background-size:25px;
+    background-position:8px;
+}
+::-webkit-input-placeholder{
+    font-size:18px;
+    color:white;
+    font-weight:500;
+}
+input:focus {
+    outline:none;
+}
+.svg {
+    width: 50px;
+    height: 50px;
+    border-radius: 16px;
+    margin-top:10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+}
+.svg:hover{
+    cursor:pointer;
+    background-color:white;
+}
+    .svg svg {
+        color: white;
+        width: 25px;
+        height: 25px;
+    }
+        .svg svg:hover {
+            color: #007bff;
+        }
