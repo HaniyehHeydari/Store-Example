@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\datNet\\practice1\\practice1\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\datNet\\practice1\\practice1\\obj\\Debug\\net8.0\\compressed\\nh06kuvb5o.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\datNet\\practice1\\practice1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\practice1.styles.css",
+      "PackagePath": "staticwebassets\\practice1.styles.css"
+    },
+    {
+      "Id": "D:\\datNet\\practice1\\practice1\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\datNet\\practice1\\practice1\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\datNet\\practice1\\practice1\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\datNet\\practice1\\practice1\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\datNet\\practice1\\practice1\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\datNet\\practice1\\practice1\\wwwroot\\image\\1.png",
+      "PackagePath": "staticwebassets\\image\\1.png"
+    },
+    {
+      "Id": "D:\\datNet\\practice1\\practice1\\wwwroot\\image\\2.png",
+      "PackagePath": "staticwebassets\\image\\2.png"
+    },
+    {
+      "Id": "D:\\datNet\\practice1\\practice1\\wwwroot\\image\\3.png",
+      "PackagePath": "staticwebassets\\image\\3.png"
+    },
+    {
+      "Id": "D:\\datNet\\practice1\\practice1\\wwwroot\\image\\4.png",
+      "PackagePath": "staticwebassets\\image\\4.png"
+    },
+    {
+      "Id": "D:\\datNet\\practice1\\practice1\\wwwroot\\image\\5.png",
+      "PackagePath": "staticwebassets\\image\\5.png"
+    },
+    {
+      "Id": "D:\\datNet\\practice1\\practice1\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\datNet\\practice1\\practice1\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.practice1.props",
+      "PackagePath": "build\\practice1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.practice1.props",
+      "PackagePath": "buildMultiTargeting\\practice1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.practice1.props",
+      "PackagePath": "buildTransitive\\practice1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.practice1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
